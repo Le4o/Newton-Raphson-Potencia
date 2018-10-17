@@ -49,10 +49,10 @@ int main(){
 		fflush (stdin);
 		printf ("Insira a potência mínima da Unidade Geradora %d: \n", x+1);
 		scanf ("%lf", &geradoras[x].pot_min);
-	/*	
+		
 		printf ("Insira a potência máxima da Unidade Geradora %d: \n", x+1);
 		scanf ("%lf", &geradoras[x].pot_max);
-	*/	
+		
 		printf ("Insira 'a', 'b' e 'c' da equação de Fator de potência da Unidade Geradora %d, respectivamente: \n", x+1);
 		
 		scanf ("%lf", &geradoras[x].a); fflush (stdin);
