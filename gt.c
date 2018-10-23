@@ -29,6 +29,7 @@ double ddf_n (u_geradora u);
 
 int main(){
 	
+	//Setando a linguagem em Português
 	setlocale (LC_ALL, "Portuguese");
 	
 	double carga_t;
