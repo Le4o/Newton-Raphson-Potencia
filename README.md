@@ -1,2 +1,3 @@
 # Newton-Raphson-Potencia
-APLICAÇÃO DO MÉTODO DE NEWTON-RHAPSON PARA RESOLVER PROBLEMA DE DESPACHO  ECONÔMICO ENVOLVENDO GERAÇÃO TÉRMICA DE ENERGIA ELÉTRICA
+Aplicação do método de Newton-Raphson para resolver problema de despacho econômico envolvendo geração térmica de energia elétrica
+
